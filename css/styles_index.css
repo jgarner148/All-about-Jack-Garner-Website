@@ -81,6 +81,8 @@ header .btn:hover{
 }
 .about-image{
   margin-right: 60px;
+ margin-top: 10px;
+  margin-left: 20px;
 }
 
 /* Projects */
@@ -149,10 +151,6 @@ footer{
 }
 /* Responsive */
 @media screen and (min-width:750px){
-  .project-item img{
-  float: left;
-  margin-right: 20px;
-  }
   .job-item{
   display: grid;
   grid-template-columns: 1fr 2fr;
