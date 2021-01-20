@@ -77,21 +77,20 @@ header .btn:hover{
   text-align: center;
   padding-top: 150px;
 }
-.section1{
-  background: #e0a9b2
+
+.school-1{
+  background: #8a619b;
 }
-.link_profile{
-  color: #343434;
+.school-2{
+  background: #eee091;
 }
-.section2{
-  background: #e7c991;
+.school-3{
+  background: #e5ee91;
 }
-.section3{
-  background: #c0d86c;
+.school-4{
+  background: #68aac9;
 }
-.section4{
-  background: #aed7f3;
-}
+
 /* Contact Info */
 footer{
   background: #343434;

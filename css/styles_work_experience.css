@@ -77,21 +77,23 @@ header .btn:hover{
   text-align: center;
   padding-top: 150px;
 }
-.section1{
-  background: #e0a9b2
+.job-1{
+  background: #e0a9b2;
 }
-.link_profile{
-  color: #343434;
-}
-.section2{
+.job-2{
   background: #e7c991;
 }
-.section3{
+.job-3{
+  background: #e5e58c;
+}
+.job-4{
   background: #c0d86c;
 }
-.section4{
+.job-5{
   background: #aed7f3;
 }
+
+
 /* Contact Info */
 footer{
   background: #343434;

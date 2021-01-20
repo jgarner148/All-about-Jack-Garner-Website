@@ -64,6 +64,19 @@ h3{
 .btn:hover{
   background: rgba(47,48,97,0.8);
 }
+.btn_blank{
+  display: flex;
+  justify-content: center;
+  color: #000000;
+  background: #808080;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.btn_blank:hover{
+  background: #808080;
+}
 
 /* header */
 header{
@@ -117,7 +130,7 @@ header .btn:hover{
   background:#e5e58c;
 }
 .project3_5{
-  background: rgb(192, 216, 108)
+  background: #c0d86c
 }
 /*project 4*/
 .project4{
