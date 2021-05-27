@@ -66,10 +66,13 @@ header .btn{
   padding: 8px;
   border-radius: 4px;
   display: inline-block;
-  margin-bottom: 15px
+  margin-bottom: 15px;
+  transition-property: background, width, transform;
+  transition-duration: 0.5s;
+  
 }
 header .btn:hover{
-  background: #ffffffcc
+  transform: scale(1.05,1);
 }
 /* Page title */
 .page-title{

@@ -61,9 +61,7 @@ h3{
   border-radius: 4px;
   display: inline-block;
 }
-.btn:hover{
-  background: rgba(47,48,97,0.8);
-}
+
 .btn_blank{
   display: flex;
   justify-content: center;
@@ -94,10 +92,13 @@ header .btn{
   padding: 8px;
   border-radius: 4px;
   display: inline-block;
-  margin-bottom: 15px
+  margin-bottom: 15px;
+  transition-property: background, width, transform;
+  transition-duration: 0.5s;
+  
 }
 header .btn:hover{
-  background: #ffffffcc
+  transform: scale(1.05,1);
 }
 /*title*/
 .page-title{
